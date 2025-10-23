@@ -34,6 +34,8 @@ The game continues until either the player or the monster’s health drops to ze
 
 - **HTML5** – for the game layout and structure  
 - **CSS3** – for styling and health bar animations  
-- **JavaScript (ES6)** – for game logic and event handling  
+- **JavaScript (ES6)** – for game logic and event handling
+
+![Monster Game Screenshot](https://github.com/kepher99/monster-game/blob/main/screenshot.png?raw=true)
 
 ---
